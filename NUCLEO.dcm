@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NUCLEO144-H7A3ZI-Q
+D Nucleo 144 Development Board with STM32H7A3ZI-Q MCU
+K STM32 Nucleo ST
+F https://www.st.com/resource/en/user_manual/dm00499171-stm32h7-nucleo144-boards-mb1363-stmicroelectronics.pdf
+$ENDCMP
+#
+#End Doc Library
